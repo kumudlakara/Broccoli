@@ -21,11 +21,9 @@ Broccoli can be of use to anyone who requires a comprehensive, easy and hassle-f
 - Selenium 3.141.0
 - Beautiful Soup 4.9.0
 
-## Future
+## Enhancements
 - Improve dataset labels in terms of 'probability of buying' using more extensive prediction methods.
 - Expand to other e-commerce websites.
 - Use more advanced AI models for a detailed survey.
 - Create a comparison model to compare the product reviews across websites.
 
-## Contribution
-Pull requests are welcome. For major changes or improvements, please open an issue first to discuss what you would like to change or add/improve.
