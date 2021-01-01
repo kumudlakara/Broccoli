@@ -6,7 +6,7 @@ Broccoli aims to make product/market surveys easier, economical and hassle-free.
 
 ## How it works
 
-The current project collects the detailed specifications of 1000+ phones alonf with user ratings and reviews and creates a 'one of its kind' dataset. This dataset is then used by a machine learning model to predict the probability of a user buying a particular phone. 
+The current project collects the detailed specifications of 1000+ phones along with user ratings and reviews and creates a 'one of its kind' dataset. This dataset is then used by a machine learning model to predict the probability of a user buying a particular phone. 
 
 - The current accuracy of the model is 72.66%
 
