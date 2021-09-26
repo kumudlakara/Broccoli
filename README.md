@@ -1,4 +1,4 @@
-# Broccoli
+# Broccoli 🥦
 
 Broccoli is a python web-crawler for e-commerce websites (such as [Flipkart](https://www.flipkart.com/)) capable of creating custom datasets and using them to derive deep insights into product popularity among users through Artificial Intelligence.
 
